@@ -1,1 +1,1 @@
-# Genetic_algorithm
+# recrear-imagen-genetico

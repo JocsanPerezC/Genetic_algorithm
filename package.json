@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "jimp": "^0.22.8"
+  },
+  "name": "recrear-imagen-genetico",
+  "description": "",
+  "version": "1.0.0",
+  "main": "recreador-imagen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
